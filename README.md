@@ -21,7 +21,7 @@
 🎯 Hackathon warrior | Microsoft Imagine Cup | Vision Hack2Skill | Hult Prize  
 🔋 Always charging up with new tech stacks and ideas  
 🎓 Civil Engineering | IIT Madras BS Data Science  
-🚀 Core member, Jadavpur University Entrepreneurship Cell (E-Cell)  
+🚀 Coordinator, Jadavpur University Entrepreneurship Cell (E-Cell)  
 
 ---
 
