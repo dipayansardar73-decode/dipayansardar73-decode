@@ -1,4 +1,4 @@
-# 🔥 Hey, I'm Dipayan Sardar! Iron Man Mode Activated ⚡
+# Hey, I'm Dipayan Sardar! ⚡
 
 ```
   _____ _____ _____ _____ 
