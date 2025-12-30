@@ -60,11 +60,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/dipayansardar73-decode)
 
 ---
-
-
-
-### "With great code comes great responsibility!" 🕷️
-
-![Visitor Badge](https://visitcount.itsvg.in/?id=dipayansardar73-decode&label=Profile%20Views&color=FF6B6B&icon=5&pretty=true)
-
-</div>
