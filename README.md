@@ -1,12 +1,11 @@
 # Hey, I'm Dipayan Sardar! ⚡
 
 ```
-  _____ _____ _____ _____ 
- |  _  | __  |  _  |  ___|
- | | | |  __ | | | | |__  
- | | | | |  \| | | |  __| 
- | |_| | |__|| |_| | |___ 
- |_____/|____/\___/|_____|
+ <!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
   "I am Iron Man."
 ```
