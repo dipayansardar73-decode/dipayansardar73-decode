@@ -45,37 +45,10 @@
 
 ---
 
-## 🏆 Achievements & Badges:
 
-### Hackathon Wins & Recognitions:
-- 🥇 **Microsoft Imagine Cup Participant** – Building AI for social impact  
-- 🎖️ **Vision Hack2Skill** – BHUMI: Agri-tech innovation  
-- 🏅 **Hult Prize Submission** – Sustainable farming solutions  
-- ⭐ **GitHub Contributions** – 100+ commits in active development  
-
-### Developer Highlights:
-- 🔥 106 contributions in 2024  
-- 📦 20 repositories | 5 starred projects  
-- 🤝 4 followers | 7 following  
-- 🎯 E-Cell core member | Hackathon organizer  
 
 ---
 
-## 🚀 Current Mission:
-
-```
-STATUS: [████████████████░] 75% - Building the next big thing
-
-Focus: Full-stack development + AI integration
-Tools: React, Node.js, Firebase, n8n automation
-Goal: Ship products that matter
-```
-
-**What I'm working on:**
-- ⚙️ BHUMI – AI-powered agricultural solutions  
-- 🔐 GigGuard – Worker verification & safety platform  
-- 🧠 NeuroShield – Mental health risk analysis system  
-- 📡 Expanding automation workflows with n8n  
 
 ---
 
@@ -88,16 +61,7 @@ Goal: Ship products that matter
 
 ---
 
-## 🎮 Fun Facts:
 
-- ⚡ I debug code faster than I debug life  
-- 🎯 Hackathons fuel my existence  
-- 🧪 Always beta-testing the next big idea  
-- 🔥 Iron Man reference because "I am Iron Man" (and I build like him too)  
-
----
-
-<div align="center">
 
 ### "With great code comes great responsibility!" 🕷️
 
