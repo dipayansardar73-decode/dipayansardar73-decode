@@ -16,8 +16,8 @@
 🛡️ Crafting next-gen tech solutions: GigGuard, NeuroShield, Social Media Drug Tracker  
 🎯 Hackathon warrior | Microsoft Imagine Cup | Vision Hack2Skill | Hult Prize  
 🔋 Always charging up with new tech stacks and ideas  
-🎓 Civil Engineering | IIT Madras BS Data Science  
-🚀 Coordinator, Jadavpur University Entrepreneurship Cell (E-Cell)  
+🎓 Jadavpur University BE | IIT Madras BS Data Science | IIT Bombay Research Intern
+🚀 Coordinator, Jadavpur University Entrepreneurship Cell (E-Cell) | JU ACM | JU Code Club
 
 ---
 
