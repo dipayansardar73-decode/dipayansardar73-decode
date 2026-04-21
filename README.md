@@ -17,6 +17,7 @@
 🔋 Always charging up with new tech stacks and ideas  
 🎓 Jadavpur University BE | IIT Madras BS Data Science | IIT Bombay Research Intern
 🚀 Coordinator, Jadavpur University Entrepreneurship Cell (E-Cell) | JU ACM | JU Code Club
+🤝 Open Source Contributor
 
 ---
 
