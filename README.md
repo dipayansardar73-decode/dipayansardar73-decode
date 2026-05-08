@@ -30,7 +30,8 @@
 
 ---
 
-https://gssoc.girlscript.org/badges/contributor.webp
+https://gssoc.girlscript.org/badges/contributor.png
+
 
 ## 🔗 Let's Connect:
 
