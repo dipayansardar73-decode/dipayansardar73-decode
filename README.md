@@ -30,9 +30,6 @@
 
 ---
 
-https://gssoc.girlscript.org/badges/contributor.png
-
-
 ## 🔗 Let's Connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dipayan-sardar-a5119a381)
